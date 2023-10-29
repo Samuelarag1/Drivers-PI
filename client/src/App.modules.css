@@ -2,35 +2,21 @@
     --rojo: #8a0000;
     --blanco: #ffffff;
     --fuentePrincipal : 'Racing Sans One', sans-serif;
-
 }
 
-html {
+/* html {
     box-sizing: border-box;
     font-size: 62.5%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-  }
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-body{
-    background-color: #000000;
-    height: 100%;
-    backdrop-filter: brightness(50%);
+    height: 100vh;
     background-image: url('../public/background.jpeg');
-    background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    margin: 0;
-    padding: 0;
+    background-repeat: no-repeat;
 }
-div{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 0;
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.contenedor{
+    background-color: #000000;
 }
 h1{
     font-size: 4rem;
@@ -39,7 +25,6 @@ h1{
     text-shadow: 2px 4px 10px  #000000;
 }
 button{
-    margin: 50% auto;
     border: .5px solid #000000;
     padding: 1rem;
     border-radius: 5px;
@@ -53,3 +38,4 @@ button:hover{
     box-shadow: 1px 1px 10px 5px #000000;
     transition: .3s;
 }
+ */

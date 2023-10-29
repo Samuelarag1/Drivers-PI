@@ -28,7 +28,7 @@ module.exports = (sequelize) => {
         type: DataTypes.STRING,
         allowNull: false,
         defaultValue:
-          "https://topdriverz.com/_next/image?url=https%3A%2F%2Ftopdriverz.nxtstatic.com%2F3488%2Fconversions%2Fescuderias-mas-ganadoras-historia-f1-large.jpg&w=1024&q=75",
+          "https://st3.depositphotos.com/36221892/37512/i/450/depositphotos_375127320-stock-photo-barcelona-spain-26th-february-2020.jpg",
       },
       nacionalidad: {
         type: DataTypes.STRING,
